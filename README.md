@@ -1,2 +1,2 @@
 # Practice
-- you know I am learnign C programming language.
+-This repository is only for practising
